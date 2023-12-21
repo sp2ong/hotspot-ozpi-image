@@ -1,5 +1,6 @@
 Eksperymentalny obraz FM POLAND Orange PI Zero v1.x który powstał przy okazji budowy obrazu dla Rasberry PI
 
+Obraz przeznaczony do budowy hotspota domowego z wykorzystaniem modułu radiowego SA818
 
 Obraz o nazwie fmpoland-ozpi.img.xz nagrać na kartę microSD (8 Gb lub większa) przy pomocy: https://etcher.balena.io/
 
