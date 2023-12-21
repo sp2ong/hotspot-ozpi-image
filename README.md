@@ -1,5 +1,7 @@
 Eksperymentalny obraz FM POLAND Orange PI Zero v1.x
 
+Obraz o nazwie fmpoland-ozpi.img.xz nagrać na kartę microSD (8 Gb lub większa) przy pomocy: https://etcher.balena.io/
+
 Login do konsoli via ssh:
 
 user: root
