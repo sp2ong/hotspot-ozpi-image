@@ -20,6 +20,6 @@ http://ip_adres
 
 Konfiguracja via Dashboard, należy wybrać z menu "Admin"
 
-Domyślnie obraz przygotowany do pracy z płytkami radiowymi SA818 na bazie schematu SPOTNIK lub ROLINK
+Domyślnie obraz przygotowany do pracy z płytkami radiowymi SA818/SA868 na bazie schematu SPOTNIK lub ROLINK
 
 
