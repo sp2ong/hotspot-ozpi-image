@@ -22,4 +22,4 @@ Konfiguracja via Dashboard, należy wybrać z menu "Admin"
 
 Domyślnie obraz przygotowany do pracy z płytkami radiowymi SA818/SA868 na bazie schematu SPOTNIK lub ROLINK
 
-
+![Hotspot login](https://github.com/sp2ong/hotspot-ozpi-image/blob/main/hotspot-login.png)
