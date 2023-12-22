@@ -22,7 +22,7 @@ Konfiguracja via Dashboard, należy wybrać z menu "Admin"
 
 Domyślnie obraz przygotowany do pracy z płytkami radiowymi SA818/SA868 na bazie schematu SPOTNIK lub ROLINK
 
-Można wykorzystać obraz z radiem BF-888, UV5K, UV5R itp podłączjąc go: http://fm-poland.pl/schemat-intrefejsu-dla-orange-pi-zero-anyradio/
+Można wykorzystać obraz z radiem BF-888, UV5K, UV5R itp podłączając go: http://fm-poland.pl/schemat-intrefejsu-dla-orange-pi-zero-anyradio/
 
 
 ![Hotspot login](https://github.com/sp2ong/hotspot-ozpi-image/blob/main/hotspot-login.png)
