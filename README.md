@@ -18,7 +18,17 @@ lub
 
 http://ip_adres
 
-Konfiguracja via Dashboard, należy wybrać z menu "Admin"
+Konfiguracja via Dashboard, należy wybrać z menu "Admin" i nastepnie: 
+
+"SVXCnf" - konfiguracja konta FM POLAND
+
+"NodeInfo" - Informacje o stacji
+
+"WEBCnf" - konfiguracja Dasboard
+
+oraz inne opcje stosownie do potrzeb
+
+![Admin Menu](https://github.com/sp2ong/hotspot-ozpi-image/blob/main/admin-menu.png)
 
 Domyślnie obraz przygotowany do pracy z płytkami radiowymi SA818/SA868 na bazie schematu SPOTNIK lub ROLINK
 
