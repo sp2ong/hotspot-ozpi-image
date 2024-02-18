@@ -36,3 +36,8 @@ Można wykorzystać obraz z radiem BF-888, UV5K, UV5R itp podłączając go: htt
 
 
 ![Hotspot login](https://github.com/sp2ong/hotspot-ozpi-image/blob/main/hotspot-login.png)
+
+
+Eksperymentalny obraz używasz na własną odpowiedzialność i autor nie ponosi odpowiedzialności za wykorzystane rozwiazanie i wynikające z niego skutki.
+
+.
