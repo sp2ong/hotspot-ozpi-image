@@ -40,7 +40,7 @@ w których są istotne informacje do dostępnych ustawień
 Domyślnie obraz przygotowany do pracy z płytkami radiowymi SA818/SA868 na bazie schematu SPOTNIK lub ROLINK
 
 
-Można wykorzystać obraz z radiem BF-888, UVK5, UV5R itp podłączając go: http://fm-poland.pl/schemat-intrefejsu-dla-orange-pi-zero-anyradio/
+Można wykorzystać obraz z dowolnym radiem radiem np GMxx, BF-888, UVK5, UV5R itp podłączając go: http://fm-poland.pl/schemat-intrefejsu-dla-orange-pi-zero-anyradio/
 
 Dodatkowo jest możliwość dostępu do strony **http://ip_adres/svxc/** wymaga logowania użytkownikiem i hasłem. Ustawienia użytkownika i hasła znajdziesz w pliku /etc/svxlink/SVXControl.txt
 
