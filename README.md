@@ -42,7 +42,11 @@ Domyślnie obraz przygotowany do pracy z płytkami radiowymi SA818/SA868 na bazi
 
 Można wykorzystać obraz z dowolnym radiem radiem np GMxx, BF-888, UVK5, UV5R itp podłączając go: http://fm-poland.pl/schemat-intrefejsu-dla-orange-pi-zero-anyradio/
 
-Dodatkowo jest możliwość dostępu do strony **http://ip_adres/svxc/** wymaga logowania użytkownikiem i hasłem. Ustawienia użytkownika i hasła znajdziesz w pliku /etc/svxlink/SVXControl.txt
+Jeśli dashboard będzie dostępny z zewnątrz (zastanów sie czy jest to ci niezbędne  to aby dostać się do menu ADMIN należy w Admin -> WebCnf w opcji REMOTEIP zamiast adresu 127.0.0.1 wpisać zdalny zaufany IP adres (ZALECANE: można skorzystać z VPN [Tailscale](https://tailscale.com/) wersja personal zawiera darmową obsługę 3 userów/100 urzadzeń). Można też dostać z publicznego adresu do strony dashboard po linkiem
+
+http://ipadresdashboard/svxc/
+
+po podaniu użytkownika i hasła gdzie można wyłączyć lub włączyć zdalnie odbiornik SVXLINK. Jak założyć użytkownika i dla niego hasło patrz opis na swoim hotspot w pliku /etc/svxlink/SVXControl.txt
 
 
 ![Hotspot login](https://github.com/sp2ong/hotspot-ozpi-image/blob/main/hotspot-login.png)
