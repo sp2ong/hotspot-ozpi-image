@@ -10,7 +10,7 @@ user: root
 
 hasło: fmpoland
 
-Zalecana zmiana hasła poleceniem: **passwd""
+Zalecana zmiana hasła poleceniem: **passwd**
 
 Dostęp do dashboard:
 
