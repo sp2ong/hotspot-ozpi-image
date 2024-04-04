@@ -51,22 +51,6 @@ po podaniu użytkownika i hasła gdzie można wyłączyć lub włączyć zdalnie
 
 ![Hotspot login](https://github.com/sp2ong/hotspot-ozpi-image/blob/main/hotspot-login.png)
 
-Dostępne są dwie wersje dashboard "jasny" i "ciemny BLUE" . Obraz domyślnie w katalog /var/www/html
-ma dashbaord w wersji BLUE
-
-Aby zmienić dashboard na "jasny" (ten, który był w dotychczasowych obrazach) trzeba via ssh jako user root zrobić
-
-cd /var/www
-
-Zmienić nazwę katalogu html na html1 poleceniem
-
-mv html html2
-
-a nowy dashboard zmienić z html1 na html poleceniem
-
-mv html1 html
-
-Aby wrócić do "BLUE" należy zmienić nazwy katalogów html na html1 a html2 na html
 
 
 **Eksperymentalny obraz używasz na własną odpowiedzialność i autor nie ponosi odpowiedzialności za wykorzystane rozwiązanie i wynikające z niego skutki.**
