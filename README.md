@@ -20,9 +20,15 @@ lub
 
 http://ip_adres
 
-Aby dowiedzieć się jaki jest adres IP przydzielony do komputera (jeśli masz działające radio w hotspocie) użyj kodu DTMF 30# a otrzymasz informacje o adres IP
+IP adres możesz znaleźć przy pomocy darmowego narzędzia: https://www.advanced-ip-scanner.com/pl/
 
 Konfiguracja via Dashboard, należy wybrać z menu "Admin" i następnie: 
+
+W pierwszej kolejności sprawdź poprawne ustawia obsługi SQL i PTT w menu
+
+**SQL PTT"
+
+Po sprawdzeniu / ustawieniu  SQL / PTT dopiero wtedy możesz przejść do konfiguracji:
 
 "SVXCnf" - konfiguracja konta FM POLAND
 
