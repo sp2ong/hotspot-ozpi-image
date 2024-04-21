@@ -1,6 +1,6 @@
 Eksperymentalny obraz FM POLAND **Orange PI Zero v1.x**
 
-( Obraz dla Orange Pi Zero **v3** znajdziesz tu:  https://github.com/radioprj/orangepiv3/releases/tag/v1.0 )
+( Obraz dla Orange Pi Zero **v3** znajdziesz tu:  https://github.com/radioprj/orangepizerov3/releases/tag/v1.0 )
 
 ( Obraz dla Raspberry PI znajdziesz tu: https://github.com/FM-POLAND/hotspot-rpi-image/releases/tag/1.0 )
 
