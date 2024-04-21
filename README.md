@@ -1,4 +1,8 @@
-Eksperymentalny obraz FM POLAND Orange PI Zero v1.x
+Eksperymentalny obraz FM POLAND **Orange PI Zero v1.x**
+
+( Obraz dla Orange Pi Zero **v3** znajdziesz tu:  https://github.com/radioprj/orangepiv3/releases/tag/v1.0 )
+
+( Obraz dla Raspberry PI znajdziesz tu: https://github.com/FM-POLAND/hotspot-rpi-image/releases/tag/1.0 )
 
 Obraz przeznaczony do budowy hotspota domowego z wykorzystaniem modułu radiowego SA818
 
@@ -46,18 +50,18 @@ w których są istotne informacje do dostępnych ustawień
 Domyślnie obraz przygotowany do pracy z płytkami radiowymi SA818/SA868 na bazie schematu SPOTNIK lub ROLINK
 
 
-Można wykorzystać obraz z dowolnym radiem radiem np GMxx, BF-888, UVK5, UV5R itp podłączając go: http://fm-poland.pl/schemat-intrefejsu-dla-orange-pi-zero-anyradio/
+Można wykorzystać obraz z dowolnym radiem np GMxx, BF-888, UVK5, UV5R itp podłączając go: http://fm-poland.pl/schemat-intrefejsu-dla-orange-pi-zero-anyradio/
 
-Jeśli dashboard będzie dostępny z zewnątrz (zastanów sie czy jest to ci niezbędne) to aby dostać się do menu ADMIN należy w Admin -> WebCnf w opcji REMOTEIP zamiast adresu 127.0.0.1 wpisać zdalny zaufany IP adres (ZALECANE: można skorzystać z VPN [Tailscale](https://tailscale.com/) wersja personal zawiera darmową obsługę 3 userów/100 urzadzeń). Można też dostać z publicznego adresu do strony dashboard po linkiem
+
+Jeśli dashboard będzie dostępny z zewnątrz (zastanów sie czy jest to ci niezbędne)  to aby dostać się do menu ADMIN należy w Admin -> WebCnf w opcji REMOTEIP zamiast adresu 127.0.0.1 wpisać zdalny zaufany IP adres (ZALECANE: można skorzystać z VPN [Tailscale](https://tailscale.com/) wersja personal zawiera darmową obsługę 3 userów/100 urządzeń). Można też dostać z publicznego adresu do strony dashboard po linkiem
 
 http://ipadresdashboard/svxc/
 
 po podaniu użytkownika i hasła gdzie można wyłączyć lub włączyć zdalnie odbiornik SVXLINK. Jak założyć użytkownika i dla niego hasło patrz opis na swoim hotspot w pliku /etc/svxlink/SVXControl.txt
 
-
 ![Hotspot login](https://github.com/sp2ong/hotspot-ozpi-image/blob/main/hotspot-login.png)
 
-
+Obraz zawiera dwa rodzaje dashboard, Domyślny w wersji "BLUE" stary dashboard tzw "jasny"
 
 **Eksperymentalny obraz używasz na własną odpowiedzialność i autor nie ponosi odpowiedzialności za wykorzystane rozwiązanie i wynikające z niego skutki.**
 .
